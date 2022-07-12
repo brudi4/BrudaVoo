@@ -19,6 +19,7 @@ def score_game(random_predict):
 
 print(f'Srednee kolichestvo popitok ugadivaniya: {score_game(random_predict)}')
 
+print('Cool!')
 
 #if __name__ == '__main__':
     #score_game(random_predict)
