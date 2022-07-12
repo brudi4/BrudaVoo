@@ -21,7 +21,9 @@ print(f'Srednee kolichestvo popitok ugadivaniya: {score_game(random_predict)}')
 
 print('Cool!')
 
-print('nice')
+<<<<<<< HEAD
 
+=======
+>>>>>>> 269f33a (asdsad)
 if __name__ == '__main__':
     score_game(random_predict)
